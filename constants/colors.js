@@ -1,1 +1,6 @@
-export default { primary: "#f7287b", accent: "#c717fc" };
+export default {
+  primary: "#f06292",
+  accent: "#ff94c2",
+  text: "#fafafa",
+  bold: "#b92864",
+};
